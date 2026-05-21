@@ -23,4 +23,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZTc3YWUwMWUtNzllNC00MmYyLWJkNDItZWVkZDQzN
 ![Access](screenshots/Cover-Page.png)
 ## Notes
 
-Synthetic dataset inspired by Victorian healthcare operational reporting structures.
+Synthetic dataset inspired by Victorian integrated non-admitted healthcare reporting structures.
