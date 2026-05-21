@@ -17,7 +17,9 @@ Operational healthcare reporting suite built in Power BI for monitoring referral
 - Sankey-based clinical outcome flow analysis
 - Interactive Power BI navigation experience
 
-## Screenshots
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZTc3YWUwMWUtNzllNC00MmYyLWJkNDItZWVkZDQzNzMxMDg5IiwidCI6IjYwZDIwZjk2LTNmYWMtNDdjMy04N2FmLTE3MDE4MDNhYWJlMyJ9
+
 ![Access](screenshots/Cover-Page.png)
 ![Access](screenshots/Access-Waiting-Time.png)
 ![Access](screenshots/Volume-Resource-Capacity.png)
