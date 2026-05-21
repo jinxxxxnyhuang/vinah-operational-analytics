@@ -21,10 +21,6 @@ Operational healthcare reporting suite built in Power BI for monitoring referral
 https://app.powerbi.com/view?r=eyJrIjoiZTc3YWUwMWUtNzllNC00MmYyLWJkNDItZWVkZDQzNzMxMDg5IiwidCI6IjYwZDIwZjk2LTNmYWMtNDdjMy04N2FmLTE3MDE4MDNhYWJlMyJ9
 
 ![Access](screenshots/Cover-Page.png)
-![Access](screenshots/Access-Waiting-Time.png)
-![Access](screenshots/Volume-Resource-Capacity.png)
-![Access](screenshots/Patients-Cohort-Risk-Profiling.png)
-![Access](screenshots/Clinical-Outcomes-Flow.png)
 ## Notes
 
 Synthetic dataset inspired by Victorian healthcare operational reporting structures.
