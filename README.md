@@ -19,7 +19,7 @@ Operational healthcare reporting suite built in Power BI for monitoring referral
 
 ## Screenshots
 
-![Access](screenshots/Cover Page.png)
+![Access](screenshots/Access-Waiting-Time.png)
 
 ## Notes
 
